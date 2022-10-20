@@ -1,4 +1,4 @@
-package com.org.cg;
+package com.alfalahsoftech.demo;
 
 public class HelloWorld {
 
@@ -12,3 +12,6 @@ public class HelloWorld {
 		return message;
 	}
 }
+
+
+//http://abcbank/api/lockunlock
